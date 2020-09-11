@@ -1,6 +1,9 @@
 # springBoot-mybatis
 通过springBoot+mybatis+mysql实现简单的增删改查
 建表sql
+
+
+
 CREATE TABLE `user` (
   `id` int(11) NOT NULL,
   `name` varchar(100) character set utf8 default NULL,
